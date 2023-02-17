@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\mechanika\Dropbox\School\CPSC 566 Adv Computer Graphics\566_proj1\main.cpp(123,55): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\mechanika\Dropbox\School\CPSC 566 Adv Computer Graphics\566_proj1\main.cpp(95,9): warning C4101: 'i': unreferenced local variable
+  Matrix2f.cpp
+  Matrix3f.cpp
+  Matrix4f.cpp
+  Quat4f.cpp
+  Vector2f.cpp
+  Vector3f.cpp
+  Vector4f.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  zero.vcxproj -> C:\Users\mechanika\Dropbox\School\CPSC 566 Adv Computer Graphics\566_proj1\Release\zero.exe
